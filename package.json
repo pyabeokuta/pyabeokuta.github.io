@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "node-sass": "^4.5.3"
+  },
+  "scripts": {
+      "test" : "bla bla bla",
+      "sass": "node-sass -w styles/sass/ -o styles/sass-css"
+   }
+}
